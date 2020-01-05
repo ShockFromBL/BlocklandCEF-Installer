@@ -1,0 +1,11 @@
+BlocklandCEF is an implementation of Chromium Embedded Framework for Blockland that allows you to load webpages/videos in-game.
+
+This installer contains a copy of BlocklandCEF v0.1.2 for Blockland r2001.
+Any existing DLLs should not be affected for as long as they use BlocklandLoader.
+
+No add-ons are included which allow you to use the DLL's capabilities "out of the box".
+
+DLL :: https://github.com/paperworx/BlocklandCEF
+Installer :: https://github.com/paperworx/BlocklandCEF-Installer
+
+For up-to-date information and troubleshooting regarding BlocklandCEF, visit https://github.com/paperworx/BlocklandCEF/wiki
